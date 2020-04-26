@@ -95,3 +95,9 @@ http://ivi.bupt.edu.cn/hls/xjtv.m3u8
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
 #EXTINF:-1 ,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 ,TVBS新聞台
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 ,三立新聞台
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 ,民視新聞台
+http://210.61.56.23/hls/ftvtv/index.m3u8
