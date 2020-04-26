@@ -1,0 +1,116 @@
+#EXTM3U
+
+#EXTINF:-1 logo="" group-title="" ,CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV5
+https://sr14.douphy.com/101938141962001.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 logo="" group-title="" ,深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 logo="" group-title="" ,浙江卫视
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,安徽卫视
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,辽宁卫视
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,天津卫视
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖北卫视
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖北经视
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000012.m3u8
+#EXTINF:-1 logo="" group-title="" ,山东卫视
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,重庆卫视
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 logo="" group-title="" ,旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 logo="" group-title="" ,河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 logo="" group-title="" ,陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,吉林卫视
+http://ivi.bupt.edu.cn/hls/jltv.m3u8
+#EXTINF:-1 logo="" group-title="" ,广西卫视
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,河北卫视
+http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,青海卫视
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 logo="" group-title="" ,山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 logo="" group-title="" ,江西卫视
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 logo="" group-title="" ,贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 logo="" group-title="" ,甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 logo="" group-title="" ,宁夏卫视
+http://ivi.bupt.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,延边卫视
+http://ivi.bupt.edu.cn/hls/ybtv.m3u8
+#EXTINF:-1 logo="" group-title="" ,三沙卫视
+http://ivi.bupt.edu.cn/hls/sstv.m3u8
+#EXTINF:-1 logo="" group-title="" ,CETV1
+http://ivi.bupt.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 logo="" group-title="" ,TVB明珠台
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,彭博（金融）Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 logo="" group-title="" ,垄上
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000014.m3u8
+#EXTINF:-1 logo="" group-title="" ,金鹰卡通
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000031.m3u8
