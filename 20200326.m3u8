@@ -1,180 +1,111 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-
 #EXTINF:-1 ,CCTV2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-
 #EXTINF:-1 ,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-
 #EXTINF:-1 ,CCTV4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-
-#EXTINF:-1,CCTV5
+#EXTINF:-1 ,CCTV5
 https://sr14.douphy.com/101938141962001.m3u8
-
 #EXTINF:-1 ,CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-
 #EXTINF:-1 ,CCTV7
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-
 #EXTINF:-1 ,CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-
 #EXTINF:-1 ,CCTV9
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-
 #EXTINF:-1 ,CCTV10
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-
 #EXTINF:-1 ,CCTV11
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-
 #EXTINF:-1 ,CCTV12
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-
 #EXTINF:-1 ,CCTV13
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-
 #EXTINF:-1 ,CCTV14
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-
 #EXTINF:-1 ,CCTV15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-
 #EXTINF:-1 ,CCTV5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
 #EXTINF:-1 ,深圳卫视
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-
 #EXTINF:-1 ,广东卫视
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-
 #EXTINF:-1 ,湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-
-#EXTINF:-1 ,湖南经视
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWEzYTgyOGE2OWVhYzhjZmVlNTI4ZDEzNjI0MmQzNTY5JmVzPTE1ODUzMjIxNjkmdXVpZD1jZDhjYTVkYjMyMWMwNTJiMTIxMTA2OTU5ZGE4MDlmNC0zZGEwZjdkMiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNJSMPP360.m3u8
-
 #EXTINF:-1 ,江苏卫视
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-
 #EXTINF:-1 ,浙江卫视
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-
 #EXTINF:-1 ,东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-
 #EXTINF:-1 ,安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-
 #EXTINF:-1 ,黑龙江卫视
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-
 #EXTINF:-1 ,辽宁卫视
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-
 #EXTINF:-1 ,天津卫视
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-
 #EXTINF:-1 ,湖北卫视
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-
-#EXTINF:-1,湖北经视
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000012.m3u8
-
 #EXTINF:-1 ,山东卫视
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-
 #EXTINF:-1 ,重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-
 #EXTINF:-1 ,新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-
 #EXTINF:-1 ,西藏卫视
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
-
 #EXTINF:-1 ,旅游卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-
 #EXTINF:-1 ,河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-
 #EXTINF:-1 ,陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-
 #EXTINF:-1 ,吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
-
 #EXTINF:-1 ,广西卫视
 http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-
 #EXTINF:-1 ,河北卫视
 http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-
 #EXTINF:-1 ,内蒙古卫视
 http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-
 #EXTINF:-1 ,青海卫视
 http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-
 #EXTINF:-1 ,四川卫视
 http://ivi.bupt.edu.cn/hls/sctv.m3u8
-
 #EXTINF:-1 ,山西卫视
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-
 #EXTINF:-1 ,厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-
 #EXTINF:-1 ,云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
-
 #EXTINF:-1 ,江西卫视
 http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-
 #EXTINF:-1 ,东南卫视
 http://ivi.bupt.edu.cn/hls/dntv.m3u8
-
 #EXTINF:-1 ,贵州卫视
 http://ivi.bupt.edu.cn/hls/gztv.m3u8
-
 #EXTINF:-1 ,甘肃卫视
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
-
 #EXTINF:-1 ,宁夏卫视
 http://ivi.bupt.edu.cn/hls/nxtv.m3u8
-
-#EXTINF:-1 ,延边卫视
-http://ivi.bupt.edu.cn/hls/ybtv.m3u8
-
 #EXTINF:-1 ,三沙卫视
 http://ivi.bupt.edu.cn/hls/sstv.m3u8
-
 #EXTINF:-1 ,海南卫视
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-
 #EXTINF:-1 ,CETV1
 http://ivi.bupt.edu.cn/hls/cetv1.m3u8
-
 #EXTINF:-1 ,凤凰资讯HD
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-
 #EXTINF:-1 ,TVB明珠台
 http://m.567it.com/Pearl.m3u8
-
 #EXTINF:-1 ,澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-
 #EXTINF:-1 ,彭博（金融）Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1,垄上
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000014.m3u8
-
-#EXTINF:-1,金鹰卡通
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000031.m3u8

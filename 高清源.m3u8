@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV4美洲蓝光（微信公众号：盒子分享汇）
+http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 ,CCTV4欧洲蓝光（微信公众号：盒子分享汇）
+http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 ,凤凰资讯台（微信公众号：盒子分享汇）
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 ,香港卫视台（微信公众号：盒子分享汇）
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,Channel DX（微信公众号：盒子分享汇）
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 ,Channel DX（微信公众号：盒子分享汇）
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 ,李连杰（微信公众号：盒子分享汇）
+http://al.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,黄渤（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,沈腾（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 ,徐峥（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,周星驰（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 ,林正英（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,徐铮（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 ,洪金宝（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 ,吴京（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,刘德华（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,贺岁档（微信公众号：盒子分享汇）
+http://aldirect.rtmp.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
+#EXTINF:-1 ,爱奇艺_票房收割机
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_经典港片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_惊悚午夜场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_动画电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_华语院线
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_怀旧剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_温情影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_周末影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_婚姻剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_经典重温
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_老年剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_青春剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_抗战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_儿童乐园
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+#EXTINF:-1 ,爱奇艺_亲子启蒙
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8

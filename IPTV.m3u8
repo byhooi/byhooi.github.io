@@ -95,9 +95,33 @@ http://ivi.bupt.edu.cn/hls/xjtv.m3u8
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
 #EXTINF:-1 ,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,CTV中视HD
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1,年代新闻
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 ,TVBS新聞台
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 ,三立新聞台
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 ,民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1,凤凰卫视香港台[HD]
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,凤凰卫视资讯台[HD]
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1,凤凰卫视中文台[HD]
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1,TVB明珠台
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1,GOOD好消息1台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1,GOOD好消息2台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1,RHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1,彭博（金融）Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,香港卫视台
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,朝鲜中央电视台
+http://tv.nknews.org/tvhls/stream.m3u8

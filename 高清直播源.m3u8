@@ -61,8 +61,6 @@ http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 http://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,李连杰电影
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,漫威电影
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,愛奇藝_五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 ,愛奇藝_黑幫電影
@@ -83,8 +81,6 @@ http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
 #EXTINF:-1 ,华数惊悚悬疑
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 ,华数动作电影
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
 #EXTINF:-1 ,华数欧美冒险
 http://hls-ott-zhibo.wasu.tv/live/156_40178/index.m3u8
 #EXTINF:-1 ,华数好莱坞大赏
@@ -99,16 +95,8 @@ http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 ,电影-林正英
 https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-李连杰
-https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,电影-洪金宝
 https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-超级英雄
-https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-黑帮大片
-https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,电影-黑帮大片
-https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,周潤發
 http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
 #EXTINF:-1 ,吳京

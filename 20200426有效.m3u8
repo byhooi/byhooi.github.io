@@ -5,8 +5,6 @@ http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accessto
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 ,甘肃卫视
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 ,青海卫视
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 ,山西卫视
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 ,云南卫视
@@ -63,16 +61,8 @@ http://47.240.60.73/migu.php?id=624303497
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,卡斯体育
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 ,TVB明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 #EXTINF:-1 ,星空卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
-#EXTINF:-1 ,香港卫视台
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,香港卫视台
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,凤凰资讯台
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 ,靖天欢乐
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 ,靖天资讯

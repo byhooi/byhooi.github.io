@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+#EXTINF:-1 ,CCTV-2财经
+http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+#EXTINF:-1 ,CCTV-3综艺
+http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+#EXTINF:-1 ,CCTV-4中文国际
+http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+#EXTINF:-1 ,CCTV-5体育
+http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1 ,CCTV-6电影
+http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
+#EXTINF:-1 ,CCTV-7军事 农业
+http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
+#EXTINF:-1 ,CCTV-8电视剧
+http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8
+#EXTINF:-1 ,CCTV-9纪录
+http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
+#EXTINF:-1 ,CCTV-10科教
+http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10
+#EXTINF:-1 ,CCTV-12社会与法
+http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
+#EXTINF:-1 ,CCTV-13新闻
+http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
+#EXTINF:-1 ,CCTV-14少儿
+http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
+#EXTINF:-1 ,江苏卫视
+http://183.207.248.71:80/cntv/live1/江苏卫视/jiangsustv
+#EXTINF:-1 ,北京卫视
+http://183.207.248.71:80/cntv/live1/北京卫视/beijingstv
+#EXTINF:-1 ,湖南卫视
+http://183.207.248.71:80/cntv/live1/湖南卫视/hunanstv
+#EXTINF:-1 ,黑龙江卫视
+http://183.207.248.71:80/cntv/live1/黑龙江卫视/HD-2500k-1080P-heilongjiangstv
+#EXTINF:-1 ,安徽卫视
+http://183.207.248.71:80/cntv/live1/安徽卫视/anhuistv
+#EXTINF:-1 ,辽宁卫视
+http://183.207.248.71:80/cntv/live1/辽宁卫视超高清/liaoningstv
+#EXTINF:-1 ,动画王国
+http://183.207.248.71:80/cntv/live1/动画王国/donghuawg
+#EXTINF:-1 ,风尚购物
+http://183.207.248.71:80/cntv/live1/风尚购物/fengshanggw
+#EXTINF:-1 ,家有购物
+http://183.207.248.71:80/cntv/live1/家有购物/SD-1500k-576P-jiayougw
+#EXTINF:-1 ,NEWTV炫舞未来
+http://183.207.248.71:80/cntv/live1/炫舞未来/HD-4000k-1080P-xwwl
+#EXTINF:-1 ,NEWTV精品电影
+http://183.207.248.71:80/cntv/live1/精品电影/jdianying
+#EXTINF:-1 ,NEWTV电竞
+http://183.207.248.71:80/cntv/live1/NewTV电竞/wmyx
